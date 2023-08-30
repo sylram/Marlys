@@ -1,6 +1,6 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %}
-{% assign email    = "xleonhunter@gmail.com" %}
-{% assign username = "git-leon" %}
+{% assign linkedin = "https://www.linkedin.com/in/marlysalvarado/" %}
+{% assign email    = "marsky80s@gmail.com" %}
+{% assign username = "Marlys" %}
 {% capture repository %}
     https://{{ username }}.github.io/resume
 {% endcapture %}
@@ -22,7 +22,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 
 ### Education
-* ZipCodeWilmington School of Coding - _March 2023 - May 2023_
+* ZipCodeWilmington School of Coding - _February 2019 - May 2019_
 * _[Certificate of Completion](./bachelors-degree.pdf)_
 
 
