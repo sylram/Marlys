@@ -1,8 +1,8 @@
 {% assign linkedin = "https://www.linkedin.com/in/marlysalvarado/" %}
 {% assign email    = "marsky80s@gmail.com" %}
-{% assign username = "Marlys" %}
+{% assign username = "sylram" %}
 {% capture repository %}
-    https://{{ username }}.github.io/resume
+    https://{{ username }}.github.io/Marlys
 {% endcapture %}
 
 <table>
