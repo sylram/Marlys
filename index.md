@@ -29,8 +29,8 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 **JP MORGAN CHASE, Wilmington, DE							    Oct 2021 - Aug 2023**
 **Software Developer**
-Maintain Java applications for the corporate sector and provide user support for trading issues with the platform analyzing Unix server logs, running shell scripts.
 
+Maintain Java applications for the corporate sector and provide user support for trading issues with the platform analyzing Unix server logs, running shell scripts.
 * Added a functionality to upload csv document containing trades to an application based on Spring, JDBC and jQuery.
 * Daily production support for trade applications which requires debugging, analyzing/monitoring AutoSys jobs, and running shell scripts.
 * Upgrade applications from Java 8 to Java 11, Cipher Suite and monitor vulnerabilities.
@@ -40,8 +40,8 @@ Maintain Java applications for the corporate sector and provide user support for
 
 **BANK OF AMERICA, Newark, DE 	                                                		            May 2019 – Oct 2021**
 **Frontend Software Developer**
-Translate UI wireframes into client-facing responsive web pages integrating REST APIs and following requirements to meet Web Content Accessibility Guidelines (WCAG) by utilizing a framework based on JavaScript, Handlebars and Sass.
 
+Translate UI wireframes into client-facing responsive web pages integrating REST APIs and following requirements to meet Web Content Accessibility Guidelines (WCAG) by utilizing a framework based on JavaScript, Handlebars and Sass.
 * Developed a modal to display debit transaction information for deposit and credit accounts.
 * Built a page for adding a user for credit cards accounts with a form submission and validation.
 * Developed a Small Loan page to display account details and recent transactions.
